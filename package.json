@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:dev": "parcel index.pug"
-  },
+    "dev": "parcel index.pug",
+    "build": "parcel build index.pug -d ./docs/"
+},
   "author": "",
   "license": "ISC",
   "dependencies": {

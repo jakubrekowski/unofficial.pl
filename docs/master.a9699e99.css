@@ -1,0 +1,2 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500");@tailwind base;@tailwind components;@tailwind utilities;:root{font-size:16px}body{background:#101214;font-family:Red Hat Display,sans-serif;color:#9a9a9a}.text-yellow{color:#f6fa2a!important}.text-darker-gray{color:#777!important}.contact{position:absolute;left:16rem;bottom:6rem}.project{transition:all .2s}.project:hover{transform:scale(1.02)}.contact a{transition:all .2s}.contact a:hover{color:#bfbfbf}
+/*# sourceMappingURL=/master.a9699e99.css.map */
